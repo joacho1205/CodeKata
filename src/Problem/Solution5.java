@@ -11,7 +11,6 @@ class Solution5 {
             } else {
                 answer = -1;
             }
-
         }
         return answer;
     }
