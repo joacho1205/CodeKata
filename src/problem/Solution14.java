@@ -1,4 +1,4 @@
-package Problem;
+package problem;
 
 class Solution14 {
     public int solution(int n) {

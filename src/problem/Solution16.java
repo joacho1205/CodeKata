@@ -1,4 +1,4 @@
-package Problem;
+package problem;
 
 class Solution16 {
     public long[] solution(int x, int n) {

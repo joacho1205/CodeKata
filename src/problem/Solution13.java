@@ -1,6 +1,4 @@
-package Problem;
-
-import java.util.*;
+package problem;
 
 public class Solution13 {
     public int solution(int n) {

@@ -1,4 +1,4 @@
-package Problem;
+package problem;
 
 class Solution10 {
     public double solution(int[] numbers) {
